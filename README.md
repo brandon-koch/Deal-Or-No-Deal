@@ -1,0 +1,5 @@
+# Deal Or No Deal
+Deal or No Deal game played through the python console. Includes 26 case amounts, interactive menu, and keeps track of your high score.
+
+In order to set up the pickle files to correctly track your high score, uncomment lines 16-18 and run the code. This will set up a file to store your high score.
+Once you run the code with these lines uncommented, go back and comment out those lines. This will prevent the same default score from appearing every time.
